@@ -11,7 +11,7 @@ Create the new components in the following order (increasing level of difficulty
 1. Header [x]
 2. Footer [x]
 3. Guest List [x]
-4. Dinner Supplies [ ]
+4. Dinner Supplies [x]
 5. Guest Form [ ]
 
 The application should still work the same way. Here is what `App.js` should render when the refactor is complete:
