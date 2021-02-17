@@ -66,7 +66,7 @@ function App() {
         newGuestName={newGuestName}
         setNewGuestName={setNewGuestName}
         newGuestMeal={newGuestMeal}
-        setNewGuestMeal={setNewGuestName}
+        setNewGuestMeal={setNewGuestMeal}
         handleSubmit={handleSubmit}
       />
       <GuestList 
